@@ -1,4 +1,4 @@
-# approvider
+# greeting app according to time
 
 A new Flutter project.
 
